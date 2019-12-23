@@ -1,0 +1,30 @@
+{
+  "name": "atual",
+  "version": "1.0.0",
+  "description": "Teste para Atual Sistemas",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeox96/atualProject.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geeox96/atualProject/issues"
+  },
+  "homepage": "https://github.com/geeox96/atualProject#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.12",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
